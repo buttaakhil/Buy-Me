@@ -92,19 +92,7 @@ Make sure you have the following installed:
 
 5. Open your browser and navigate to `http://localhost:3000` to view the application.
 
-## Folder Structure
 
-### Frontend
-- `src/components`: React components for UI
-- `src/context`: React Context API for global state management
-- `src/pages`: Pages for different routes
-- `src/styles`: Tailwind CSS styles
-
-### Backend
-- `routes/`: API endpoints
-- `models/`: MongoDB models
-- `controllers/`: Business logic for endpoints
-- `config/`: Configuration files (e.g., database connection)
 
 ## Contributing
 
